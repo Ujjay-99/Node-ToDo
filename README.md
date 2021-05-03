@@ -5,7 +5,7 @@
 
 <li> Navigate to your browser <code> http://localhost:3000/ </code> to view the app </li>
 </ol>
-![Before adding](https://user-images.githubusercontent.com/56380826/116873413-47a26000-ac35-11eb-9b33-8b0329f88226.JPG)
-![Adding task](https://user-images.githubusercontent.com/56380826/116873416-483af680-ac35-11eb-80c9-aa3130a238ab.JPG)
-![checkbox](https://user-images.githubusercontent.com/56380826/116873417-48d38d00-ac35-11eb-8895-fb83f2af2dee.JPG)
-![remove](https://user-images.githubusercontent.com/56380826/116873419-48d38d00-ac35-11eb-8aaa-1f00339690f2.JPG)
+![remove](https://user-images.githubusercontent.com/56380826/116873502-6bfe3c80-ac35-11eb-9c30-3705ed562fa8.JPG)
+![Before adding](https://user-images.githubusercontent.com/56380826/116873504-6d2f6980-ac35-11eb-97bf-59c4d9dd21fa.JPG)
+![Adding task](https://user-images.githubusercontent.com/56380826/116873506-6d2f6980-ac35-11eb-8afd-9809c61fdfce.JPG)
+![checkbox](https://user-images.githubusercontent.com/56380826/116873507-6dc80000-ac35-11eb-8334-02f673685842.JPG)
